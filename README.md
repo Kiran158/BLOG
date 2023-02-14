@@ -1,1 +1,1 @@
-Creating a Business card using Html Css and Django.
+Add this app folder under project folder.
